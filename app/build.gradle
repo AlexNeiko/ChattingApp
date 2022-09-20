@@ -52,7 +52,7 @@ dependencies {
     //Rounded ImageView
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
-    //Firebase (to alexdevx01@gmail.com)
+    //Firebase
     implementation platform('com.google.firebase:firebase-bom:29.3.1')
     //Firebase in app massaging
     implementation 'com.google.firebase:firebase-messaging:23.0.1'
