@@ -18,7 +18,6 @@ import com.google.firebase.messaging.RemoteMessage
 import kotlin.random.Random
 
 /** service for Cloud Messaging (in firebase) = need to register in manifest */
-/** to -> alexdevx01@gmail.com */
 class MessagingService: FirebaseMessagingService() {
 
     override fun onNewToken(@NonNull token: String) {
