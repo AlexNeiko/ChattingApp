@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chat App Study</string>
+    <string name="welcome_back_text">Welcome Back Alex :)</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email_hint_text">Email</string>
+    <string name="email_name_text">Name</string>
+    <string name="pass_hint_text">Password</string>
+    <string name="pass_confirm_hint_text">Confirm Password</string>
+    <string name="sing_in_text">Sing In</string>
+    <string name="sing_up_text">Sing Up</string>
+    <string name="create_new_account_text">Create New Account</string>
+    <string name="add_image_text">Add Image</string>
+    <string name="alert_msg_select_image">select image profile</string>
+    <string name="alert_msg_enter_name">Enter name</string>
+    <string name="alert_msg_enter_email">Enter email</string>
+    <string name="alert_msg_valid_email">Enter valid email</string>
+    <string name="alert_msg_enter_pass">Enter password</string>
+    <string name="alert_msg_confirm_pass">Confirm password</string>
+    <string name="alert_msg_same_pass">Password and confirm password must be same</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">Online</string>
+</resources>
