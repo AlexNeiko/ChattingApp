@@ -40,7 +40,7 @@ object Constants {
         if (remoteMsgHeaders.isNullOrEmpty()) {
             remoteMsgHeaders!!.put(
                 REMOTE_MSG_AUTHORIZATION,
-                "key=AAAAW0z33PM:APA91bGGJiQPWsNy1_hkA60DOeDK9QI_9RtATVIztUiV7a7tTcWS6DeF6EGcREsFC5e_6EUhqfmUTMCg9qgcGv7bZzmNwwUUnlsDXLFM2EOTu1luUuIKx9iZMzd6zWVmvxmNr6mpQGI7")
+                "key=PASTE_YOUR_HERE")
             remoteMsgHeaders!!.put(REMOTE_MSG_CONTENT_TYPE, "application/json")
         }
         return remoteMsgHeaders
